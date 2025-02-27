@@ -112,21 +112,13 @@ Feel free to open issues or submit pull requests if you encounter bugs, need imp
 5. Push to the branch (`git push origin feature-name`).
 6. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Selenium WebDriver: Used for browser automation.
-- python-dotenv: Used for securely loading environment variables.
-  
 ## Contact
 
 For any inquiries, you can reach me via:
 
-- [GitHub Profile](https://github.com/your-username)
-- [Email](mailto:your-email@example.com)
+- [GitHub Profile](https://github.com/Pathak-77)
+- [Email](mailto:aayushpathak77@gmail.com)
 
 ---
 
